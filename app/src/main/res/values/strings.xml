@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">V5LibraryBooks</string>
+    <string name="updateBook">Update book</string>
+    <string name="deleteBook">Delete Book</string>
+    <string name="title">Title:</string>
+    <string name="author">Author:</string>
+    <string name="addBook">Add book</string>
+    <string name="needToEnter">You need to enter both an author and a title</string>
+    <string name="nothingToEdit">Nothing can't be edited, so there is nothing to edit!</string>
+</resources>

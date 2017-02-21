@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dce0f3de11781e1ee758cba483871b598c9d4931">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta5_dbc4430fd489f9ddaaeae0a4d3d83acb6a22c7a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_7caaddf30d7f328f8aab77a3040ee66d7ffcc439/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_5fd665c944b9529710e6f4278e484a91863014cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_8ac46e6c32bea639506041531cf0260aa81e8aff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_31acbfe6a00395933d35b00dc872a6b1aeb1112b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_aa3983c74ef689ef7acb6b473d33166cc8ffe246/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_a1c446926332f1a947239b90f05b8d55d4f72446/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_e2d5e5823c4fe3084355258282642e4236f96645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_9d8b3a3bed2780b961bab485c7f96444bed85e3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta5/constraint-layout-solver-1.0.0-beta5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff0dad5e4fc720f478ce8b5f6edf76a932d9b886">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta5_6404c40fa04dba9a57d80ea55c48d7a3d81d8843/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a33a1ba048bf2791a2d2df5735067b1a93bf7460">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ddc8f23110c46cabb8986575c2f31c7268be283f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_dc98a584bc2197f52451236eacd7e6e3a190142f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_ca83e0e0c1d23bf97f408049feaf9758d7184936/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61da7c07ddb1610bedd48faacdd7c89cc62d6bb8">
+        <dex dex="/Users/Giovanni/Documents/Newton/Android/V5LibraryBooks/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_40016774ddca3dd47998ae0e7ccf3387d30b1c55/classes.dex" />
+    </item>
+
+</items>
